@@ -31,3 +31,27 @@ At the core of every Ugly Box is a [Raspberry Pi 4](ttps://amzn.to/392KJrs0) wit
 * Ugly Box Local Proxy Capture and touchscreen resdesign of footage playback
 * Clip Logging and Meta Data optimiztion & automation
 
+
+
+# How Do I Get A Box?
+We're currently running a Kickstarter Campaign where you can receive either a fully assembled or DIY Mini, Big, and Oversized Ugly Boxes! Contributing anything towards the Kickstarter will grant access to detailed DIY assembly guides for the 3D printing enthusiasts. If you want to try DIY but lack a 3D printer, there are tiers where you can recieve just a shell for a box or a getting started with 3D printing bundle that includes the Ender 3 3D printer. 
+
+Finances should never be a barrier to entry to filmmaking and running an efficient set, which is why we designed the Ugly Box Mini DIY for the filmmakers on a minimal budget. If want to build your own Ugly Box Mini to give us feedback on the software, while our print farms work on having the first batch of Kickstarter Kits ready to ship out one week after the campaign end date, here's all you need to get started....
+
+
+* Raspberry Pi 4 4 GB - [Amazon   $60.74](https://amzn.to/2ZGeafT) 
+* 3.5" TFT Touchscreen - [Amazon $21.99](https://amzn.to/2DQEk72) 
+* Micro SD Card - [Amazon $9.49](https://amzn.to/3fFZv9W) 
+
+That's it, that's all you need to test out the software while you wait for your Kickstarter unit. For $92.22 for a kit that can either be a dedicated handheld unit when the software is refined, or reposursed into another useful Raspberry Pi gadget when your kickstarter unit is delivered. Now here are some optional add-on that improve that basic parts list in various ways...
+
+* Mini Ugly Box Case
+    * We're sending these out for our backers on Kickstarter, but we're also releasing all 3D printing designs we can on this github. Check out /downloadpack/ for a complete catologue of designs. After market Mini Ugly Box Shells are currently available for purchase in the US at Soltys Cameras. 
+* 18650 Battery Power Add On - [Amazon   $23.99](https://amzn.to/32wE5bv) 
+    *   This bottom module will add docking space for two 18650 batteries, to remove the need to plug in a micro USB cable to power the Mini Ugly Box
+* 3.5" IPS 60 FPS 1080P HDMI Touchscreen - [Amazon $36.89](https://amzn.to/397eNSP) 
+    * I would really recommend this upgrade for those that intend to use the Mini Ugly Box for video preview of their Z Cam. 
+* 256 GB Micro SD Card - [Amazon $42.99](https://amzn.to/2ZGvYYc)
+    * We already selected an A2 class card for the Ugly Box line of products, so we already surpass the max micro SD card speed of the Raspberry Pi, however a larger card means more space for other helpful programs to be installed alongside the Ugly Box AI.  
+
+*Note items are US prices at time of writing, but it uses all widely available consumer electronics, so similar components should be available in international markets.*
