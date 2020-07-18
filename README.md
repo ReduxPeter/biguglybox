@@ -1,8 +1,7 @@
 # Big Ugly Box
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Oversized Box](https://reduxfilm.co/wp-content/uploads/2020/07/box-1.gif)](https://github.com/ReduxLuxe/biguglybox/blob/master/downloadpack/Back%20Shell%20150mm%20Deep.stl)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 A collaboration between
 ![alt text](https://reduxfilm.co/wp-content/uploads/2018/08/Website-Banner.png)
