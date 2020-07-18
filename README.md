@@ -39,11 +39,17 @@ We're currently running a Kickstarter Campaign where you can receive either a fu
 Finances should never be a barrier to entry to filmmaking and running an efficient set, which is why we designed the Ugly Box Mini DIY for the filmmakers on a minimal budget. If want to build your own Ugly Box Mini to give us feedback on the software, while our print farms work on having the first batch of Kickstarter Kits ready to ship out one week after the campaign end date, here's all you need to get started....
 
 
+#### Mini Ugly Box Essentials Shopping List
+
+
 * Raspberry Pi 4 4 GB - [Amazon   $60.74](https://amzn.to/2ZGeafT) 
 * 3.5" TFT Touchscreen - [Amazon $21.99](https://amzn.to/2DQEk72) 
 * Micro SD Card - [Amazon $9.49](https://amzn.to/3fFZv9W) 
 
 That's it, that's all you need to test out the software while you wait for your Kickstarter unit. For $92.22 for a kit that can either be a dedicated handheld unit when the software is refined, or reposursed into another useful Raspberry Pi gadget when your kickstarter unit is delivered. Now here are some optional add-on that improve that basic parts list in various ways...
+
+
+#### Mini Ugly Box Add-On Shopping List
 
 * Mini Ugly Box Case
     *    We're sending these out for our backers on Kickstarter, but we're also releasing all 3D printing designs we can on this github. Check out the [download pack](https://github.com/ReduxLuxe/biguglybox/tree/master/downloadpack) for a complete catologue of designs. Premium after market Mini Ugly Box Shells are currently available for purchase in the US at Soltys Cameras. If you want to print a case yourself, the [Ender 3](https://geni.us/ender-3) is our extremely highly recommended printer to start, you can read more about the Ender 3 in our Getting Started With 3D Printing Guide
