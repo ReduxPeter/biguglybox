@@ -12,7 +12,7 @@
 The Ugly Box Line of Smart Cinema Accessories
 
 - Mini Ugly Box
-   * 3.5" 1080p Touchscreen Wireless Control Unit for Z Cams
+   * 3.5" 1080p Handheld Touchscreen Wireless Control Unit for Z Cams
  - Big Ugly Box
     * Dual 3.5" touchscreen Back Module expansion box & Control Unit for Z Cams
   - Oversized Ugly Box
