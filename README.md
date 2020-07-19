@@ -52,12 +52,16 @@ That's it, that's all you need to test out the software while you wait for your 
 #### Mini Ugly Box Add-On Shopping List
 
 * Mini Ugly Box Case
-    *    We're sending these out for our backers on Kickstarter, but we're also releasing all 3D printing designs we can on this github. Check out the [download pack](https://github.com/ReduxLuxe/biguglybox/tree/master/downloadpack) for a complete catologue of designs. Premium after market Mini Ugly Box Shells will be available for purchase in the US soon at [Soltys Cameras](https://www.soltyscameras.com/). If you want to print a case yourself, the [Ender 3](https://geni.us/ender-3) is our extremely highly recommended printer to start, you can read more about the Ender 3 in our Getting Started With 3D Printing Guide
+    *    We're sending these out for our backers on Kickstarter, but we're also releasing all 3D printing designs we can on this github. Check out the [download pack](https://github.com/ReduxLuxe/biguglybox/tree/master/downloadpack) for a complete catologue of designs. Premium after market Mini Ugly Box Shells will be available for purchase in the US soon at [Soltys Cameras](https://www.soltyscameras.com/). 
+*  Ender 3 3D Printer [Amazon $206.99](https://geni.us/ender-3)
+    *  A highly recommended printer to start, you can read more about the Ender 3 in our Getting Started With 3D Printing Guide. We would recommend this for those who are interested in following allong as we prototype new hardware placements. Getting your own printer allows you to prototype your own designs too! 
 * 18650 Battery Power Add On - [Amazon   $23.99](https://amzn.to/32wE5bv) 
     *   This bottom module will add docking space for two 18650 batteries, to remove the need to plug in a micro USB cable to power the Mini Ugly Box
 * 3.5" IPS 60 FPS 1080P HDMI Touchscreen - [Amazon $36.89](https://amzn.to/397eNSP) 
     * I would really recommend this upgrade for those that intend to use the Mini Ugly Box for video preview of their Z Cam. 
 * 256 GB Micro SD Card - [Amazon $42.99](https://amzn.to/2ZGvYYc)
     * We already selected an A2 class card for the Ugly Box line of products, so we already surpass the max micro SD card speed of the Raspberry Pi, however a larger card means more space for other helpful programs to be installed alongside the Ugly Box AI.  
+* 8MP 1080p Camera Module - [Amazon $26.99](https://amzn.to/32zkEyW)
+    * This camera module can be added to your mini for on set reference photos or BTS pics. Your phone likely has a better quaility image sensor, but it's an extra utility that your Ugly Box has the potential for. 
 
 *Note items are US prices at time of writing, but it uses all widely available consumer electronics, so similar components should be available in international markets.*
