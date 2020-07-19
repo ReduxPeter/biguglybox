@@ -39,7 +39,7 @@ We're currently running a Kickstarter Campaign where you can receive either a fu
 Finances should never be a barrier to entry to filmmaking and running an efficient set, which is why we designed the Ugly Box Mini DIY for the filmmakers on a minimal budget. If want to build your own Ugly Box Mini to give us feedback on the software, while our print farms work on having the first batch of Kickstarter Kits ready to ship out one week after the campaign end date, here's all you need to get started....
 
 
-#### Mini Ugly Box Essentials Shopping List
+### Mini Ugly Box Essentials Shopping List
 
 
 * Raspberry Pi 4 4 GB - [Amazon   $60.74](https://amzn.to/2ZGeafT) 
