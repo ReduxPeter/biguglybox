@@ -60,7 +60,7 @@ That's it, that's all you need to test out the software while you wait for your 
 * 3.5" IPS 60 FPS 1080P HDMI Touchscreen - [Amazon $36.89](https://amzn.to/397eNSP) 
     * I would really recommend this upgrade for those that intend to use the Mini Ugly Box for video preview of their Z Cam. 
 * 256 GB Micro SD Card - [Amazon $42.99](https://amzn.to/2ZGvYYc)
-    * We already selected an A2 class card for the Ugly Box line of products, so we already surpass the max micro SD card speed of the Raspberry Pi, however a larger card means more space for other helpful programs to be installed alongside the Ugly Box AI.  
+    * We already selected an A2 class card for the Ugly Box line of products, so we already surpass the max micro SD card speed of the Raspberry Pi, however a larger card means more space for other helpful programs to be installed alongside the Ugly Box AI,  or for storage space for all the on set pictures you can take with  
 * 8MP 1080p Camera Module - [Amazon $26.99](https://amzn.to/32zkEyW)
     * This camera module can be added to your mini for on set reference photos or BTS pics. Your phone likely has a better quaility image sensor, but it's an extra utility that your Ugly Box has the potential for. 
 
