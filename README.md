@@ -23,6 +23,7 @@ The Ugly Box Line of Smart Cinema Accessories
 
 At the core of every Ugly Box is a [Raspberry Pi 4](ttps://amzn.to/392KJrs0) with a 3.5" touchscreen UI redesign for control of Z Cam Cinema Cameras. But the Ugly Box software goes a lot deeper than just a reskin of a menu and wireless camera control, here's everything we're looking to add as the AI is developed...
 
+* Articial Intelligence filmmaking assisant with Z Cam Specific integrations
 * Over the Air (OTA) Z Cam Firmware Updates
   * The Ugly Box AI will automatically download the newest firmware for your camera (based on last model connected) as soon as it is available. Upon the next connection to your camera the Ugly Box AI will attempt to detect all potential conflicts and apply the corresponding troubleshooting steps from the Z Cam Handbook, before prompting the user to update. Once the user confirms they want to update, the AI will take care of the rest. 
 * OTA updates of all Redux Film Co filmmaking resources delivered to your Ugly Box.
