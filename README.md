@@ -30,7 +30,9 @@ At the core of every Ugly Box is a [Raspberry Pi 4](ttps://amzn.to/392KJrs0) wit
     * Smart control integration, such as tapping & holding on a data value in the FPS chart, will send the string of HTTP commands to set your camera in the corresponding codec, resolution, and frame rate.
 * Z Cam SSP Video Preview
 * Ugly Box Local Proxy Capture and touchscreen resdesign of footage playback
+  * After the shoot, offload Proxy media through USB for faster Dallies footage review
 * Clip Logging and Meta Data optimiztion & automation
+  * Integration of the ExifTool Library allows for customizable automated meta data  
 
 
 
