@@ -29,6 +29,7 @@ At the core of every Ugly Box is a [Raspberry Pi 4](ttps://amzn.to/392KJrs0) wit
 * OTA updates of all Redux Film Co filmmaking resources delivered to your Ugly Box.
     * Smart control integration, such as tapping & holding on a data value in the FPS chart, will send the string of HTTP commands to set your camera in the corresponding codec, resolution, and frame rate.
 * Z Cam SSP Video Preview
+  * SSP is the prefered A/V preview method for Z Cams, but is going to take a little time to implement. More resource intensive streams like MPEG will work at launch. 
 * Ugly Box Local Proxy Capture and touchscreen resdesign of footage playback
   * After the shoot, offload Proxy media through USB for faster Dallies footage review
 * Clip Logging and Meta Data optimiztion & automation
