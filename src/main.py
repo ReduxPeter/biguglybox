@@ -1,8 +1,10 @@
 import kivy
-kivy.require('1.0.6')
+kivy.require('2.0.0')
 
 import asyncio
 import websockets
+
+from websocketclient import WebSocketClient
 
 from kivy.app import App
 from kivy.uix.label import Label
@@ -14,6 +16,11 @@ from kivy.uix.popup import Popup
 from kivy.uix.button import Button
 from kivy.core.window import Window
 from kivy.animation import Animation
+# from kivy.app import async_runTouchApp
+
+import os
+os.environ['KIVY_EVENTLOOP'] = 'asyncio'
+os.environ['KIVY_WINDOW'] = 'sdl2'
 
 
 class TopBarItemWidget(BoxLayout):
@@ -137,12 +144,32 @@ class MainScreenWidget(BoxLayout):
 
 
 class BigUglyBoxApp(App):
+    main_screen = None
     def build(self):
         main_screen = MainScreenWidget()
+        self.main_screen = main_screen
         return main_screen
+    def onMessage(self, message):
+        # print(message)
+        if message.get('what') == "RecStarted":
+            self.main_screen.start_record()
+        if message.get('what') == "RecStoped":
+            self.main_screen.stop_record()
+        print(str(message))
 
 
 if __name__ == '__main__':
     # Window.fullscreen = True
-    Window.size = (500, 280)
-    BigUglyBoxApp().run()
+    # Window.size = (500, 280)
+    loop = asyncio.get_event_loop()
+    app = BigUglyBoxApp()
+    client = WebSocketClient()
+    connection = loop.run_until_complete(client.connect(app))
+    # Start listener and heartbeat 
+    tasks = [
+        asyncio.ensure_future(client.heartbeat(connection)),
+        asyncio.ensure_future(client.receiveMessage(connection)),
+    ]
+    loop.run_until_complete(App.async_run(app))
+    loop.run_until_complete(asyncio.wait(tasks))
+    loop.close()

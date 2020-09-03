@@ -6,8 +6,12 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-kivy = "*"
+kivy = "==2.0.0rc3"
 websockets = "*"
+pillow = "*"
+pysdl2 = "*"
+cython = "==0.29.10"
+pygame = "*"
 
 [requires]
 python_version = "3.7"
